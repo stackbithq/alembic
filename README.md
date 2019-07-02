@@ -74,6 +74,8 @@ To give you a running start I've put together some starter kits that you can dow
   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms)
 
 - GitHub Pages with remote theme kit - **[Download kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+- Stackbit starter kit:  
+  [![Deploy with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/wizard?theme=https://github.com/stackbithq/alembic)
 
 ### As a Jekyll theme
 
