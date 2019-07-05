@@ -75,7 +75,7 @@ To give you a running start I've put together some starter kits that you can dow
 
 - GitHub Pages with remote theme kit - **[Download kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
 - Stackbit starter kit:  
-  [![Deploy with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/alembic)
+  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/alembic)
 
 ### As a Jekyll theme
 
