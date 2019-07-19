@@ -280,6 +280,10 @@ models:
     singleInstance: true
     file: blog/index.html
     fields:
+      - type: string
+        name: title
+        label: Page Title
+        required: true
       - type: boolean
         name: aside
         label: Aside
