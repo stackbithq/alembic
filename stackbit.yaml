@@ -179,7 +179,7 @@ models:
             options:
               - {label: "Disabled", value: ""}
               - {label: "Enabled", value: "#2D72D9"}
-          - type: string
+          - type: boolean
             name: Email
             label: Email
   home:
